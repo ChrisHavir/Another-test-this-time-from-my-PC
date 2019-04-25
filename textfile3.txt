@@ -1,1 +1,3 @@
 Howdy, a third file, for some random testing, has come to aid!
+
+Another test, this time I also added something to textfile3!
